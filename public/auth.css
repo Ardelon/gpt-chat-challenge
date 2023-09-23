@@ -1,0 +1,16 @@
+#authContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+#register,
+#login {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 40%;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+}
