@@ -1,3 +1,9 @@
+# GPT Chat Application
+
+This application developed by only using chat gpt. Every commit will be done in one hour.
+
+# Features
+
 User Authentication: Implement a secure login system.
 
 Usernames: Allow users to set a username to identify who is sending messages.
